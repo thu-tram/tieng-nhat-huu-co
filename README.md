@@ -1,4 +1,3 @@
 # Tiếng Nhật hữu cơ
-Một hướng dẫn ngữ pháp Tiếng Nhật "được"
 
-Bạn sẽ học từ ngữ pháp cơ bản thông qua Tae Kim "refined" việt-hóa của mình! rồi sẽ lên đến ngữ pháp từ N1 -> N5
+Một trang hướng dẫn tự học ngữ pháp Tiếng Nhật tử đầu đến cuối, nhớ mở trang chủ

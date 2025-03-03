@@ -1,0 +1,42 @@
+site_name: Tiếng Nhật hữu cơ
+site_description: Một trang hướng dẫn tự học ngữ pháp từ đầu cho (chắc là) đến cuối. 
+site_author: thu-tram  
+
+nav:
+  - 'Trang chủ': 
+    - index.md
+  - 'Tổng hợp ngữ pháp':
+    - 'ngu-phap-tong-hop.md'
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - toc.follow
+    - search.suggest
+    - search.highlight
+  name: material
+
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  generator: false
